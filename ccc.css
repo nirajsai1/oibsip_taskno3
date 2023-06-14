@@ -1,0 +1,25 @@
+#cel{
+    margin-top: 100px;
+  }
+  #fah{
+    margin-top: 100px;
+  }
+  #result{
+    margin-top: 100px;
+  }
+  #celsius{
+    width:auto;
+    height:auto;
+  }
+  .tab{
+    border: 2px solid black;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    border-radius: 30px;
+    border-style: double;
+    background-color: yellow;
+  }
+  h1{
+    color: orange;
+  }
